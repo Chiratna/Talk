@@ -6,8 +6,6 @@ Talk is a all new chat app developed completely using Flutter and backend is man
 <div class="row">
     <p>
       <img src="screenshots/ss1.jpg" width="250">
-    </p>
-    <p>
         Sign In screen
     </p>
       <img src="screenshots/ss2.jpg" width="250">
