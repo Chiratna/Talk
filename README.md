@@ -13,3 +13,6 @@ Talk is a all new chat app developed completely using Flutter and backend is man
 </div>
 
 # Future aim
+1) Adding more functionality to the app.
+2) Improving the UI.
+3) Improving the overall performance of the app.
